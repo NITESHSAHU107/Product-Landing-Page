@@ -18,7 +18,35 @@ N-BeatsUp is dedicated to providing exceptional audio experiences. Our products 
 
 You can experience the N-BeatsUp Product Landing Page by visiting our demo:
 
+## Home Page:
 
+
+![Home](https://github.com/NITESHSAHU107/Product-Landing-Page/assets/111894844/f8e9f974-acf3-4918-b662-5964a8249dde)
+
+## About Page:
+
+
+![About](https://github.com/NITESHSAHU107/Product-Landing-Page/assets/111894844/47ab5db1-40c2-4f63-a282-2ff7cc11aa31)
+
+## Features Page:
+
+
+![Feature](https://github.com/NITESHSAHU107/Product-Landing-Page/assets/111894844/eff0d88a-8510-427a-9cdf-1fcbe7fe1c88)
+
+## Product Page:
+
+
+![Product](https://github.com/NITESHSAHU107/Product-Landing-Page/assets/111894844/da881dc1-73c0-40e7-b4ab-20032139df3d)
+
+## Contact Page:
+
+
+![Contact](https://github.com/NITESHSAHU107/Product-Landing-Page/assets/111894844/9de05045-1e17-4880-923a-c5b0345eb82b)
+
+## Fax Page:
+
+
+![FAX](https://github.com/NITESHSAHU107/Product-Landing-Page/assets/111894844/00a5b082-a54a-41e4-905d-350a07e9e39e)
 
 ## Contributing
 
